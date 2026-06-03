@@ -106,5 +106,12 @@ Users are responsible for complying with all applicable laws, regulations, and o
 
 ---
 ---
+## 🔑 Default Login Credentials
 
-### "Learn. Build. Secure."
+For the initial login, use the following credentials:
+
+**Username:** `bviper`
+**Password:** `bviper`
+---
+
+## "Learn. Build. Secure."
